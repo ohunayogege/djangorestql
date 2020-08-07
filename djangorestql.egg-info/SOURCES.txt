@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+djangorestql/__init__.py
+djangorestql/exceptions.py
+djangorestql/fields.py
+djangorestql/filters.py
+djangorestql/mixins.py
+djangorestql/operations.py
+djangorestql/parser.py
+djangorestql/serializers.py
+djangorestql/settings.py
+djangorestql.egg-info/PKG-INFO
+djangorestql.egg-info/SOURCES.txt
+djangorestql.egg-info/dependency_links.txt
+djangorestql.egg-info/top_level.txt
